@@ -1,0 +1,38 @@
+c:\xampp\htdocs\phantomjs-1.8.1-windows>phantomjs.exe --help
+Usage:
+   phantomjs [switchs] [options] [script] [argument [argument [...]]]
+
+Options:
+  --cookies-file=<val>                 Sets the file name to store the persistent cookies
+  --config=<val>                       Specifies JSON-formatted configuration file
+  --debug=<val>                        Prints additional warning and debug message: 'yes' or 'no' (default)
+  --disk-cache=<val>                   Enables disk cache: 'yes' (default) or 'no'
+  --ignore-ssl-errors=<val>            Ignores SSL errors (expired/self-signed certificate errors): 'yes' or 'no' (defau
+lt)
+  --load-images=<val>                  Loads all inlined images: 'yes' (default) or 'no'
+  --local-storage-path=<val>           Specifies the location for offline local storage
+  --local-storage-quota=<val>          Sets the maximum size of the offline local storage (in KB)
+  --local-to-remote-url-access=<val>   Allows local content to access remote URL: 'yes' or 'no' (default)
+  --max-disk-cache-size=<val>          Limits the size of the disk cache (in KB)
+  --output-encoding=<val>              Sets the encoding for the terminal output, default is 'utf8'
+  --remote-debugger-port=<val>         Starts the script in a debug harness and listens on the specified port
+  --remote-debugger-autorun=<val>      Runs the script in the debugger immediately: 'yes' or 'no' (default)
+  --proxy=<val>                        Sets the proxy server, e.g. '--proxy=http://proxy.company.com:8080'
+  --proxy-auth=<val>                   Provides authentication information for the proxy, e.g. ''-proxy-auth=username:pa
+ssword'
+  --proxy-type=<val>                   Specifies the proxy type, 'http' (default), 'none' (disable completely), or 'sock
+s5'
+  --script-encoding=<val>              Sets the encoding used for the starting script, default is 'utf8'
+  --web-security=<val>                 Enables web security, 'yes' (default) or 'no'
+  --ssl-protocol=<val>                 Sets the SSL protocol (supported protocols: 'SSLv3' (default), 'SSLv2', 'TLSv1',
+'any')
+  --webdriver=<val>                    Starts in 'Remote WebDriver mode' (embedded GhostDriver): '[[<IP>:]<PORT>]' (defa
+ult '127.0.0.1:8910')
+  --webdriver-selenium-grid-hub=<val>  URL to the Selenium Grid HUB: 'URL_TO_HUB' (default 'none') (NOTE: works only tog
+ether with '--webdriver')
+  -h,--help                            Shows this message and quits
+  -v,--version                         Prints out PhantomJS version
+
+Without any argument, PhantomJS will launch in interactive mode (REPL).
+
+Documentation can be found at the web site, http://phantomjs.org.

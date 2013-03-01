@@ -1,0 +1,64 @@
+db.auctions.findOne
+db.auctions.findOne()
+db.auctions.update( { _id: "88bf92d5-aa9b-4c2f-8390-6bcef1d50f2a"}, { $set: { placeDate: "1741"}})
+;
+db.auctions.findOne()
+db.auctions.update( { _id: "88bf92d5-aa9b-4c2f-8390-6bcef1d50f2a"}, { $set: { "placeDate": "1741"}})
+db.auctions.findOne()
+db.auctions.update( { _id: "88bf92d5-aa9b-4c2f-8390-6bcef1d50f2a"}, { $set: { "placeDate": "1741"}rerere})
+db.auctions.update( { _id: "88bf92d5-aa9b-4c2f-8390-6bcef1d50f2a"}, { $set: { "placeDate": "1741"}})
+db.auctions.update( { _id: "88bf92d5-aa9b-4c2f-8390-6bcef1d50f2a"}, { $set: { "placeDate": "1741"}})
+db.auctions.findOne()
+db.auctions.update( { _id: "88bf92d5-aa9b-4c2f-8390-6bcef1d50f2a"}, { $set: { "placeDate": "1741"}})
+db.Regions.find()
+db.Regions.findOne()
+db.Regions.find()
+db.Regions.findOne()
+db.Regions.find()
+db.regions.find()
+db.regions.update( ")
+db.regions.find()
+db.regions.update
+db.regions.update({"_id": "b59ca937-fb4f-445e-bb3c-7566ee3e9512"},{$set {"region" : "test"}})
+db.regions.update({"_id": "b59ca937-fb4f-445e-bb3c-7566ee3e9512"},$set {"region" : "test"})
+db.regions.update({_id: "b59ca937-fb4f-445e-bb3c-7566ee3e9512"},$set {"region" : "test"})
+db.regions.update({_id: "b59ca937-fb4f-445e-bb3c-7566ee3e9512"},{$set {"region" : "test"}});
+db.regions.update( {_id: "b59ca937-fb4f-445e-bb3c-7566ee3e9512"},{$set {"region" : "test"}});
+db.regions.update( {_id : "b59ca937-fb4f-445e-bb3c-7566ee3e9512"},{$set {"region" : "test"}});
+db.regions.update( {_id fdfd "b59ca937-fb4f-445e-bb3c-7566ee3e9512"},{$set {"region" : "test"}});
+db.regions.update( {_id: "b59ca937-fb4f-445e-bb3c-7566ee3e9512"},{$set {"region" : "test"}});
+db.regions.update( 
+db.regions.findOne()
+db.regions.find()
+db.regions.find().count()
+db.regions.find()
+db.regions.remove()
+db.regions.find().count()
+db.auctionhouses.find()
+db
+db.collections
+help
+show collections
+db.help
+db.help()
+db.createCollection('auctionhouses')
+db.collections
+show collections
+db.auctionhouses.find()
+db.auctionhouses.find().count()
+db.auctionhouses.findOne()
+db.auctionhouses.remove()
+db.auctions.findOne()
+db.auctions.find().count()
+db.auctionhouses.find().count()
+db.auctionhouses.find()
+db.auctionhouses.findOne()
+db.auctionhouses.find({"name": "Barry Lawrence Ruderman Antique Maps Inc."})
+db.auctionhouses.find({"name": "Barry Lawrence Ruderman Antique Maps Inc."}).count()
+db.auctionhouses.find({"name": "Barry Lawrence Ruderman Antique Maps Inc."})
+cls
+clear
+db.auctionhouses.find({"name": "Barry Lawrence Ruderman Antique Maps Inc."})
+db.auctionhouses.remove()
+db.auctionhouses.findOne()
+db.auctionhouses.find().count()
